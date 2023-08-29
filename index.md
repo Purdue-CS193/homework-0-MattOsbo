@@ -1,6 +1,6 @@
 # Matt Osborne's First CS193 Homework
 
-## Favorite things about CS193
+### Favorite things about CS193
 - Got to create a GitHub account (fun)
 - Very entertaining would you rather questions
 - *Get to* walk a long way to arrive at the class
